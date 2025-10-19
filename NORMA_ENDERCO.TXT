@@ -1,0 +1,790 @@
+AREA                AREA           SS   
+ACESSO              AC             S    
+ADRO                ADRO           SS   
+ALAMEDA             AL             S    
+ARTERIA             ART            S    
+ALTO                ALTO           S    
+ATALHO              ATL            S    
+AVENIDA             AV             S    
+BALNEARIO           BAL            S    
+BECO                BC             S    
+BELVEDERE           BELV           S    
+BLOCO               BL             S S  
+BALAO               BLO            S    
+BOSQUE              BSQ            S    
+BOULEVARD           BLV            S    
+BAIXA               BX             S    
+CAIS                CAIS           SS   
+CAMINHO             CAM            S    
+CHACARA             CH             S    
+CHAPADAO            CHAP           S    
+CIRCULAR            CIRC           S    
+CONJUNTO            CJ             S S  
+COLONIA             COL            S    
+CONDOMINIO          COND           S    
+CORREDOR            COR            S    
+CAMPO               CPO            S    
+CORREGO             CRG            S    
+DESCIDA             DSC            S    
+DESVIO              DSV            S    
+DISTRITO            DT             S    
+ESCADA              ESC            S    
+ESPLANADA           ESP            S    
+ESTRADA             ESTR           S    
+ESTACAO             ETA            S    
+ESTADIO             ETD            S    
+ELEVADA             EVD            S    
+FAVELA              FAV            S    
+FAZENDA             FAZ            S    
+FERROVIA            FER            S    
+FONTE               FNT            S    
+FEIRA               FRA            S    
+FORTE               FTE            S    
+GALERIA             GAL            S    
+GRANJA              GJA            S    
+HABITACIONAL        HAB            S    
+ILHA                ILHA           SS   
+JARDIM              JD             S    
+JARDINETE           JDE            S    
+LADEIRA             LAD            S    
+LARGO               LGO            S    
+LAGOA               LGA            S    
+LOTEAMENTO          LOT            S    
+MARINA              MNA            S    
+MORRO               MRO            S    
+MONTE               MTE            S    
+PARALELA            PAR            S    
+PASSEIO             PAS            S    
+PATIO               PAT            S    
+PRACA               PCA            S    
+PARADA              PDA            S    
+PARADOURO           PDO            S    
+PRAIA               PR             S    
+PROLONGAMENTO       PRL            S    
+PARQUE              PQ             S    
+PASSARELA           PSA            S    
+PASSAGEM            PSG            SS   
+PONTE               PTE            S    
+PORTO               PTO            S    
+QUADRA              QD             S S  
+QUINTA              QTA            S    
+QUINTAS             QTAS           S    
+RUA                 R              S    
+RAMAL               RAM            S    
+RECANTO             REC            S    
+RETIRO              RER            S    
+RETA                RET            S    
+RODOVIA             ROD            S    
+ROTULA              ROT            S    
+RETORNO             RTN            S    
+SITIO               SIT            S    
+SERVIDAO            SRV            SS   
+SETOR               ST             S    
+SUBIDA              SUB            S    
+TRINCHEIRA          TCH            S    
+TERMINAL            TER            S    
+TRECHO              TRECHO         SS   
+TREVO               TREVO          SS   
+TRAVESSA            TRV            S    
+UNIDADE             UNID           S    
+VIA                 VIA               1 
+VIADUTO             VTO            S    
+VEREDA              VER            S    
+VILA                VILA           SS   
+VIELA               VLA            S    
+VALE                VLE            S    
+ZIGUE ZAGUE         ZIG ZAG        S    
+AD                  AND                 
+ALMDA               AL             S    
+ALMIRANTE           ALM               8 
+AN                  AND                 
+ANDAR               AND                 
+ANDARES             AND                 
+APART               AP              S   
+APARTAM             AP                  
+APARTAMENTO         AP                  
+APARTAMENTOS        AP                  
+APT                 AP                  
+APTO                AP                  
+APTOS               AP                  
+APTS                AP                  
+AV                  AV             SS   
+AVEN                AV             S    
+AVENID              AV             S    
+BLC                 BL              S   
+BLCS                BL                  
+BLOC                BL                  
+BLOCOS              BL                  
+BO                  BX                  
+BOX                 BX                  
+BRIGADEIRO          BRIG              8 
+CAPIT               CAP               8 
+CAPITAO             CAP               8 
+CAS                 CS                  
+CASA                CS              S   
+CASAS               CS                  
+CD                  COND                
+CJTO                CJ              S   
+CJTOS               CJ                  
+CNEL                CEL               8 
+COJ                 CJ                  
+CONDOM              COND                
+CONJ                CJ                  
+CONJT               CJ                  
+CONJUNTOS           CJ                  
+CONSELH             CONS              8 
+CONSELHEIRA         CONS              8 
+CONSELHEIRO         CONS              8 
+CONSO               CONS              8 
+CORO                CEL               8 
+CORON               CEL               8 
+CORONEL             CEL               8 
+DEPTDA              DEP               8 
+DEPTDO              DEP               8 
+DEPUTADA            DEP               8 
+DEPUTADO            DEP               8 
+DESEMBARGADOR       DESEMB            8 
+DOUT                DR                8 
+DOUTOR              DR                8 
+DOUTORA             DRA               8 
+DPTDA               DEP               8 
+DPTDO               DEP               8 
+DQSA                DQSA              8 
+DTR                 DR                8 
+DTRA                DRA                 
+DUQA                DQSA              8 
+DUQUE               DQ                8 
+DUQUESA             DQSA              8 
+EDF                 ED                  
+EDIFIC              ED                  
+EDIFICIO            ED                  
+EMBAIXADOR          EMB               8 
+ENGA                ENG               8 
+ENGENHEIRA          ENG               8 
+ENGENHEIRO          ENG               8 
+ENGO                ENG               8 
+ENGRA               ENG               8 
+ENGRO               ENG               8 
+FAZEN               FAZ            S    
+FDO                 FDS                 
+FDOS                FDS                 
+FILH                FO                  
+FILHO               FO                  
+FUNDOS              FDS                 
+FZ                  FAZ            S    
+FZDA                FAZ            S    
+GEL                 GEN               8 
+GENER               GEN               8 
+GENERAL             GEN               8 
+GOVERN              GOV               8 
+GOVERNADOR          GOV               8 
+JRD                 JD                  
+JUNIOR              JR                  
+KILOMETRO           KM                  
+LJS                 LJ              S   
+LOJ                 LJ                  
+LOJA                LJ                  
+LOJAS               LJ                  
+LOTE                LT                  
+LOTES               LT                  
+LRG                 LGO            S    
+MAJOR               MJ                8 
+MAREC               MAL               8 
+MARECHAL            MAL               8 
+MARQUESA            MQ                8 
+MINISTRO            MIN               8 
+MJOR                MJ                8 
+MQSA                MQ                8 
+MTRO                MIN               8 
+NETO                NT                  
+NETTO               NT                  
+PADRE               PE                8 
+PD                  PE                8 
+PDE                 PE                8 
+PQE                 PQ                  
+PRACINHA            PCA            S    
+PRC                 PCA            S    
+PRCA                PCA            S    
+PREFEITA            PREF              8 
+PREFEITO            PREF              8 
+PRESID              PRES              8 
+PRESIDEN            PRES              8 
+PRESIDENTE          PRES              8 
+PROFES              PROF              8 
+PROFESSOR           PROF              8 
+PROFESSORA          PROFA             8 
+QDR                 QD              S   
+QDRS                QD                  
+QDS                 QD                  
+QUADRAS             QD                  
+QUILOMETRO          KM                  
+RD                  ROD            S    
+RDV                 ROD            S    
+RODV                ROD            S    
+SAL                 SL              S   
+SALA                SL                  
+SALAS               SL                  
+SANTA               STA               8 
+SANTO               STO               8 
+SARG                SG                8 
+SARGENTO            SG                8 
+SENAD               SEN               8 
+SENADOR             SEN               8 
+SENADORA            SEN               8 
+SENH                SR                8 
+SENHOR              SR                8 
+SENHORA             SRA               8 
+SENHORINHA          SRA               8 
+SLS                 SL                  
+SOBRELOJA           SLJ                 
+TENENTE             TEN               8 
+TNTE                TEN               8 
+TOR                 TORRE               
+TTE                 TEN               8 
+VEREAD              VER               8 
+VEREADOR            VER               8 
+VEREADORA           VER               8 
+VISCONDE            VISC              8 
+PRAC                PCA                 
+AVN                 AV             S    
+ETR                 ESTR           S    
+PRA                 PCA                 
+TRA                 TRV                 
+LG                  LGO            S    
+PC                  PCA                 
+PRAC                PCA                 
+PRQ                 PQ                  
+TR                  TRV                 
+SOBRADO             SOB                 
+SOBRAD              SOB                 
+GRUPO               GR                  
+ANDA                AND                 
+NUMERO              NR                  
+ALAM                AL             S    
+AVE                 AV             S    
+ESTRAD              ESTR           S    
+FAZEND              FAZ            S    
+TRAV                TRV            S    
+COBERTURA           COB                 
+COBERTU             COB                 
+COBERTUR            COB                 
+COBERT              COB                 
+BLOCO               BL                  
+AV                  AV                1 
+AL                  AL                1 
+BL                  BL             SSS3 
+CJ                  CJ             SSS3 
+COL                 COL            SS   
+FAZ                 FAZ               1 
+LGO                 LGO               1 
+R                   R                 1 
+TRV                 TRV               1 
+ESTR                ESTR              1 
+BALNE               BAL            S    
+BELVED              BELV           S    
+BOSQ                BSQ            S    
+BOULEV              BLV            S    
+BOUL                BLV            S    
+CHAC                CH             S    
+CHAP                CHAP           SS   
+QD                  QD             SSS3 
+TV                  TRV            S    
+BVD                 BLV            S    
+EST                 ESTR           S    
+LD                  LAD            S    
+PRQ                 PQ             S    
+VL                  VILA           S    
+PCA                 PCA               1 
+VD                  VTO            S    
+BEC                 BC             S    
+LAD                 LAD               1 
+ROD                 ROD            SS 1 
+VLA                 VLA               1 
+VTO                 VTO               1 
+BR                  BR             SSS3 
+SP                  SP                1 
+LOT                 LOT               1 
+AC                  AC             SS   
+ALTO                ALTO           SS   
+ART                 ART            SS   
+ATL                 ATL            SS   
+BX                  BX             SS   
+BLO                 BLO            SS   
+BAL                 BAL            SS   
+BC                  BC             SS   
+BELV                BELV           SS   
+BSQ                 BSQ            SS   
+BLV                 BLV            SS   
+CAM                 CAM            SS   
+CPO                 CPO            SS   
+CAP                 CAP            SS   
+CH                  CH             SS   
+CIRC                CIRC           SS   
+COND                COND           SS   
+COR                 COR            SS   
+CRG                 CRG            SS   
+DSC                 DSC            SS   
+DSV                 DSV            SS   
+DT                  DT             SS   
+EVD                 EVD            SS   
+ESC                 ESC            SS   
+ESP                 ESP            SS   
+ETA                 ETA            SS   
+ETD                 ETD            SS   
+FAV                 FAV            SS   
+FRA                 FRA            SS   
+FER                 FER            SS   
+FNT                 FNT            SS   
+FTE                 FTE            SS   
+GAL                 GAL            SS   
+GJA                 GJA            SS   
+HAB                 HAB            SS   
+ILH                 ILHA           S    
+JD                  JD             SS   
+JDE                 JDE            SS   
+LGA                 LGA            SS   
+MNA                 MNA            SS   
+MTE                 MTE            SS   
+MRO                 MRO            SS   
+PDA                 PDA            SS   
+PDO                 PDO            SS   
+PAR                 PAR            SS   
+PQ                  PQ             SS   
+PSA                 PSA            SS   
+PAS                 PAS            SS   
+PAT                 PAT            SS   
+PTO                 PTO            SS   
+PR                  PR             SS   
+PRL                 PRL            SS   
+QTA                 QTA            SS   
+QTAS                QTAS           SS   
+RAM                 RAM            SS   
+REC                 REC            SS   
+RET                 RET            SS   
+RER                 RER            SS   
+RTN                 RTN            SS   
+ROT                 ROT            SS   
+ST                  ST             SS   
+SIT                 SIT            SS   
+SUB                 SUB            SS   
+TER                 TER            SS   
+TCH                 TCH            SS   
+UNID                UNID           SS   
+VLE                 VLE            SS   
+VER                 VER            SS   
+ZIG ZAG             ZIG ZAG        SS   
+DA                  DA                2 
+DAS                 DAS               2 
+DO                  DO                2 
+DOS                 DOS               2 
+DE                  DE                2 
+KM                  KM                3 
+LJ                  LJ                3 
+CS                  CS                3 
+SL                  SL                3 
+SLJ                 SLJ               3 
+AND                 AND               3 
+AP                  AP                3 
+LT                  LT                3 
+II                  DOIS              4 
+III                 TRES              4 
+IV                  QUATRO            4 
+V                   CINCO             4 
+VI                  SEIS              4 
+VII                 SETE              4 
+VIII                OITO              4 
+IX                  NOVE              4 
+X                   DEZ               4 
+XI                  ONZE              4 
+XII                 DOZE              4 
+XIII                TREZE             4 
+XIV                 QUATORZE          4 
+XV                  QUINZE            4 
+XVI                 DEZESSEIS         4 
+XVII                DEZESSETE         4 
+XVIII               DEZOITO           4 
+XIX                 DEZENOVE          4 
+XX                  VINTE             4 
+XXI                 VINTE E UM        4 
+XXII                VINTE E DOIS      4 
+XXIII               VINTE E TRES      4 
+XXIV                VINTE E QUATRO    4 
+XXV                 VINTE E CINCO     4 
+XXVI                VINTE E SEIS      4 
+XXVII               VINTE E SETE      4 
+XXVIII              VINTE E OITO      4 
+XXIX                VINTE E NOVE      4 
+XXX                 TRINTA            4 
+XXXI                TRINTA E UM       4 
+CX                  CAIXA             5 
+POSTA               POSTAL            6 
+POST                POSTAL            6 
+POST                POSTAL            6 
+PO                  POSTAL            6 
+PT                  POSTAL            6 
+P                   POSTAL            6 
+C                   CAIXA             5 
+CA                  CAIXA             5 
+CAI                 CAIXA             5 
+CAIX                CAIXA             5 
+CAIXA               CAIXA             5 
+POSTAL              POSTAL            6 
+CAIX                CAIXA               
+CX                  CAIXA               
+AREA                AREA           S  7 
+ACESSO              ACESSO         S  7 
+ARTERIA             ARTERIA        S  7 
+ALTO                ALTO           S  7 
+ATALHO              ATALHO         S  7 
+BALNEARIO           BALNEARIO      S  7 
+BECO                BECO           S  7 
+BELVEDERE           BELVEDERE      S  7 
+BALAO               BALAO          S  7 
+BOSQUE              BOSQUE         S  7 
+BAIXA               BAIXA          S  7 
+CAIS                CAIS           S  7 
+CAMINHO             CAMINHO        S  7 
+CHACARA             CHACARA        SS 7 
+CHAPADAO            CHAPADAO       S  7 
+CIRCULAR            CIRCULAR       S  7 
+COLONIA             COLONIA        S  7 
+CAMPO               CAMPO          S  7 
+CORREGO             CORREGO        S  7 
+DESCIDA             DESCIDA        S  7 
+DESVIO              DESVIO         S  7 
+DISTRITO            DISTRITO       S  7 
+ESCADA              ESCADA         S  7 
+ESPLANADA           ESPLANADA      S  7 
+ESTRADA             ESTRADA        S  7 
+ESTACAO             ESTACAO        S  7 
+ESTADIO             ESTADIO        S  7 
+FAVELA              FAVELA         S  7 
+FERROVIA            FERROVIA       S  7 
+FONTE               FONTE          S  7 
+FEIRA               FEIRA          S  7 
+FORTE               FORTE          S  7 
+GALERIA             GALERIA        S  7 
+GRANJA              GRANJA         S  7 
+JARDIM              JARDIM         S  7 
+JARDINETE           JARDINETE      S  7 
+LADEIRA             LADEIRA        S  7 
+LARGO               LARGO          S  7 
+LAGOA               LAGOA          S  7 
+MARINA              MARINA         S  7 
+MORRO               MORRO          S  7 
+MONTE               MONTE          S  7 
+PARALELA            PARALELA       S  7 
+PRACA               PRACA          S  7 
+PARADA              PARADA         S  7 
+PARADOURO           PARADOURO      S  7 
+PRAIA               PRAIA          S  7 
+PROLONGAMENTO       PROLONGAMENTO  S  7 
+PARQUE              PARQUE         S  7 
+PASSARELA           PASSARELA      S  7 
+PASSAGEM            PASSAGEM       S  7 
+PONTE               PONTE          S  7 
+PORTO               PORTO          S  7 
+QUINTA              QUINTA         S  7 
+QUINTAS             QUINTAS        S  7 
+RAMAL               RAMAL          S  7 
+RETIRO              RETIRO         S  7 
+ROTULA              ROTULA         S  7 
+RETORNO             RETORNO        S  7 
+SITIO               SITIO          S  7 
+SERVIDAO            SERVIDAO       S  7 
+SETOR               SETOR          S  7 
+SUBIDA              SUBIDA         S  7 
+TRINCHEIRA          TRINCHEIRA     S  7 
+TERMINAL            TERMINAL       S  7 
+TRECHO              TRECHO         S  7 
+TREVO               TREVO          S  7 
+TRAVESSA            TRAVESSA       S  7 
+UNIDADE             UNIDADE        S  7 
+VIADUTO             VIADUTO        S  7 
+VEREDA              VEREDA         S  7 
+VILA                VILA           S  7 
+VIELA               VIELA          S  7 
+VALE                VALE           S  7 
+ALMDA               ALAMEDA        S  7 
+PRCA                PRACA          S  7 
+ACES                ACESSO         S  7 
+ADRO                ADRO           S  7 
+ALAM                ALAMEDA        S  7 
+ALAMEDA             ALAMEDA        S  7 
+AVEN                AVENIDA        S  7 
+AVENID              AVENIDA        S  7 
+AVENIDA             AVENIDA        S  7 
+BALNE               BALNEARIO      S  7 
+BELVED              BELVEDERE      S  7 
+BOSQ                BOSQUE         S  7 
+BOUL                BOULEVARD      S  7 
+BOULEV              BOULEVARD      S  7 
+BOULEVARD           BOULEVARD      S  7 
+CHAC                CHACARA        S  7 
+CHAP                CHAPADAO       S  7 
+CIRC                CIRCULAR       S  7 
+CORREDOR            CORREDOR       S  7 
+ESTRAD              ESTRADA        S  7 
+FAZEN               FAZENDA        S  7 
+FAZEND              FAZENDA        S  7 
+FAZENDA             FAZENDA        S  7 
+FZ                  FAZENDA        S  7 
+FZDA                FAZENDA        S  7 
+PCA                 PRACA          S  7 
+PRACINHA            PRACA          S  7 
+PRC                 PRACA          S  7 
+RECANTO             RECANTO        S  7 
+TRAV                TRAVESSA       S  7 
+FAZ                 FAZENDA        S  7 
+ELEVADA             ELEVADA        S  7 
+PASSEIO             PASSEIO        S  7 
+PATIO               PATIO          S  7 
+RODOVIA             RODOVIA        S  7 
+VLA                 VIELA          S  7 
+PONTE               PTE            S    
+MQ                  MARQUES             
+PRAC                PRACA          S  7 
+JD                  JARDIM         S  7 
+MOD                 MODULO            3 
+MODULO              MODULO            3 
+MODS                MODULO            3 
+MODULOS             MODULO            3 
+TRV                 TRV            SS   
+AL                  AL             SS   
+ESTR                ESTR           SS   
+FAZ                 FAZ            SS   
+LAD                 LAD            SS   
+LGO                 LGO            SS   
+LOT                 LOT            SS   
+PCA                 PCA            SS   
+PTE                 PTE            SS   
+VTO                 VTO            SS   
+VLA                 VLA            SS   
+QDRA                QD                  
+QUDRA               QD                  
+AVD                 AV             S    
+BALN                BAL            S    
+BRIGAD              BRIG              8 
+CHAPAD              CHAP           S    
+CHAPAD              CHAPADAO       S  7 
+ESCAD               ESC            S    
+ESCAD               ESCADA         S  7 
+MAJ                 MJ                8 
+MARQ                MARQUES             
+PASS                PAS            S    
+PATEO               PAT            S    
+PATEO               PATIO          S  7 
+QUAD                QD                  
+TRC                 TRECHO         S  7 
+VIAD                VIADUTO        S  7 
+CHACARAS            CH             S    
+CHACARAS            CHACARA        S  7 
+CH                  CHARACA        S  7 
+CHARACA             CH             S    
+CHARACA             CHACARA        S  7 
+CHC                 CH             S    
+CHC                 CHACARA        S  7 
+ALMIRANTE           ALMIRANTE         9 
+BRIGADEIRO          BRIGADEIRO        9 
+CAPIT               CAPITAO           9 
+CAPITAO             CAPITAO           9 
+CNEL                CORONEL           9 
+CONSELH             CONSELHEIRO       9 
+CONSELHEIRA         CONSELHEIRA       9 
+CONSELHEIRO         CONSELHEIRO       9 
+CONSO               CONSELHEIRO       9 
+CORO                CORONEL           9 
+CORON               CORONEL           9 
+CORONEL             CORONEL           9 
+DEPTDA              DEPUTADA          9 
+DEPTDO              DEPUTADO          9 
+DEPUTADA            DEPUTADA          9 
+DEPUTADO            DEPUTADO          9 
+DESEMBARGADOR       DESEMBARGADOR     9 
+DOUT                DOUTOR            9 
+DOUTOR              DOUTOR            9 
+DOUTORA             DOUTORA           9 
+DPTDA               DEPUTADA          9 
+DPTDO               DEPUTADO          9 
+DQSA                DUQUESA           9 
+DTR                 DOUTOR            9 
+DUQA                DUQUESA           9 
+DUQUE               DUQUE             9 
+DUQUESA             DUQUESA           9 
+EMBAIXADOR          EMBAIXADOR        9 
+ENGA                ENGENHEIRA        9 
+ENGENHEIRA          ENGENHEIRA        9 
+ENGENHEIRO          ENGENHEIRO        9 
+ENGO                ENGENHEIRO        9 
+ENGRA               ENGENHEIRA        9 
+ENGRO               ENGENHEIRO        9 
+GEL                 GENERAL           9 
+GENER               GENERAL           9 
+GENERAL             GENERAL           9 
+GOVERN              GOVERNADOR        9 
+GOVERNADOR          GOVERNADOR        9 
+MAJOR               MAJOR             9 
+MAREC               MARECHAL          9 
+MARECHAL            MARECHAL          9 
+MARQUESA            MARQUESA          9 
+MINISTRO            MINISTRO          9 
+MJOR                MAJOR             9 
+MQSA                MARQUESA          9 
+MTRO                MINISTRO          9 
+PADRE               PADRE             9 
+PD                  PADRE             9 
+PDE                 PADRE             9 
+PREFEITA            PREFEITA          9 
+PREFEITO            PREFEITO          9 
+PRESID              PRESIDENTE        9 
+PRESIDEN            PRESIDENTE        9 
+PRESIDENTE          PRESIDENTE        9 
+PROFES              PROFESSOR         9 
+PROFESSOR           PROFESSOR         9 
+PROFESSORA          PROFESSORA        9 
+SANTA               SANTA             9 
+SANTO               SANTO             9 
+SARG                SARGENTO          9 
+SARGENTO            SARGENTO          9 
+SENAD               SENADOR           9 
+SENADOR             SENADOR           9 
+SENADORA            SENADORA          9 
+SENH                SENHOR            9 
+SENHOR              SENHOR            9 
+SENHORA             SENHORA           9 
+SENHORINHA          SENHORINHA        9 
+TENENTE             TENENTE           9 
+TNTE                TENENTE           9 
+TTE                 TENENTE           9 
+VEREAD              VEREADOR          9 
+VEREADOR            VEREADOR          9 
+VEREADORA           VEREADORA         9 
+VISCONDE            VISCONDE          9 
+BRIGAD              BRIGADEIRO        9 
+MAJ                 MAJOR             9 
+ALM                 ALMIRANTE         9 
+BRIG                BRIGADEIRO        9 
+CAP                 CAPITAO           9 
+CEL                 CORONEL           9 
+CONS                CONSELHEIRO       9 
+DEP                 DEPUTADO          9 
+DESEMB              DESEMBARGADOR     9 
+DQ                  DUQUE             9 
+DR                  DOUTOR            9 
+DRA                 DOUTORA           9 
+EMB                 EMBAIXADOR        9 
+ENG                 ENGENHEIRO        9 
+GEN                 GENERAL           9 
+GOV                 GOVERNADOR        9 
+MAL                 MARECHAL          9 
+MIN                 MINISTRO          9 
+MJ                  MAJOR             9 
+MQ                  MARQUESA          9 
+PE                  PADRE             9 
+PREF                PREFEITO          9 
+PRES                PRESIDENTE        9 
+PROF                PROFESSOR         9 
+PROFA               PROFESSORA        9 
+SEN                 SENADOR           9 
+SG                  SARGENTO          9 
+SR                  SENHOR            9 
+SRA                 SENHORA           9 
+STA                 SANTA             9 
+STO                 SANTO             9 
+TEN                 TENENTE           9 
+VER                 VEREADOR          9 
+VISC                VISCONDE          9 
+VIL                 VILA           S    
+JANEIRO             JANEIRO           10
+FEVEREIRO           FEVEREIRO         10
+MARCO               MARCO             10
+ABRIL               ABRIL             10
+MAIO                MAIO              10
+JUNHO               JUNHO             10
+JULHO               JULHO             10
+AGOSTO              AGOSTO            10
+SETEMBRO            SETEMBRO          10
+OUTUBRO             OUTUBRO           10
+NOVEMBRO            NOVEMBRO          10
+DEZEMBRO            DEZEMBRO          10
+BLOCO               BL             S S7 
+BLC                 BL             S S7 
+BLCS                BL             S S7 
+BLOC                BL             S S7 
+BLOCOS              BL             S S7 
+CONJUNTO            CJ             S S7 
+CJTO                CJ             S S7 
+CJTOS               CJ             S S7 
+COJ                 CJ             S S7 
+CONJ                CJ             S S7 
+CONJT               CJ             S S7 
+CONJUNTOS           CJ             S S7 
+LOTEAMENTO          LOT            S S7 
+LOTEAMEN            LOT            S S7 
+LOTE                LT             S S7 
+LOTES               LT             S S7 
+LOTEAMENT           LOT            S S7 
+LOTEAME             LOT            S S7 
+LOTEAM              LOT            S S7 
+QUADRA              QD             S S7 
+QDR                 QD             S S7 
+QDRS                QD             S S7 
+QDS                 QD             S S7 
+QUADRAS             QD             S S7 
+QDRA                QD             S S7 
+QUDRA               QD             S S7 
+QUAD                QD             S S7 
+LOTEAMEN            LOT            S    
+LOTEAMENT           LOT            S    
+LOTEAME             LOT            S    
+LOTEAM              LOT            S    
+AT                  ALTO           S  7 
+TV                  TRAVESSA       S  7 
+ACES                AC             S    
+BRG                 BRIG              8 
+BRG                 BRIGADEIRO        9 
+CNSO                CONS              8 
+CNSO                CONSELHEIRO       9 
+PSG                 PASSAGEM       S  7 
+SRV                 SERVIDAO       S  7 
+VSC                 VISC              8 
+VSC                 VISCONDE          9 
+COMENDADOR          COMEND            8 
+COMENDADOR          COMENDADOR        9 
+COMEND              COMENDADOR        9 
+REVERENDO           REV               8 
+REVERENDO           REVERENDO         9 
+REVERENDO           REVERENDO         9 
+REVEREND            REV               8 
+REVEREND            REVERENDO         9 
+REVEREN             REV               8 
+REVEREN             REVERENDO         9 
+MONSENHOR           MNS               8 
+MONSENHOR           MONSENHOR         9 
+MONSR               MNS               8 
+MONSR               MONSENHOR         9 
+MONSENH             MNS               8 
+MONSENH             MONSENHOR         9 
+COMANDANTE          COMAND            8 
+COMANDANTE          COMANDANTE        9 
+COMANDAN            COMAND            8 
+COMANDAN            COMANDANTE        9 
+GAL                 GENERAL           9 
+GAL                 GEN               8 
+SRV                 SRV            SS   
+CDOR                COMENDADOR        9 
+CDOR                COMEND            8 
+MAESTRO             MTO               8 
+MTO                 MAESTRO           9 
+MAESTRO             MAESTRO           9 
+CTE                 COMAND            8 
+CTE                 COMANDANTE        9 
+CMTE                COMAND            8 
+CMTE                COMANDANTE        9 
+MTE                 MONTE          S  7 
+CA                  CS                  
+POS                 POSTAL            6 
+PRF                 PROF              8 
+APOSTAL             POSTAL            6 
+COMENDANDOR         COMEND            8 
+COMENDANDOR         COMENDADOR        9 
